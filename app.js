@@ -1,5 +1,4 @@
-//const gifUrl ="api.giphy.com/v1/gifs/random?api_key=lxW3Ndk053twgNZ0HIpL4Mccffz2HPAI&tag=monday&rating=g";
-
+//this file is not working, I was just testing fetch
 const gifUrl =
   "api.giphy.com/v1/gifs/random?api_key=lxW3Ndk053twgNZ0HIpL4Mccffz2HPAI";
 
