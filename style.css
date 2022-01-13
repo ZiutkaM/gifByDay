@@ -1,0 +1,16 @@
+body {
+  width: 80%;
+  margin: 0 auto;
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-align: center;
+  padding: 50px;
+  text-transform: uppercase;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
